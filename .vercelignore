@@ -1,0 +1,10 @@
+﻿A1/
+MiniGPT-From-Scratch/
+experiments/
+outputs/
+tests/
+.pytest_cache/
+**/__pycache__/
+MiniGPT_FINAL_EXECUTED.ipynb
+export_onnx.py
+checkpoints/minigpt.pt

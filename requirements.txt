@@ -1,4 +1,4 @@
-﻿onnxruntime
+onnxruntime
 numpy
 fastapi
 pydantic

@@ -1,0 +1,46 @@
+d_model,heads,layers,context,steps,batch,parameters,validation_loss,perplexity,training_seconds,tokens_per_second,peak_memory_mb,generation_sample,experiment_family,setting
+64,4,2,128,150,16,108097,2.7696900606155395,15.953688567025536,1.99,154034.6,381.24,"ROMEO:
+
+O: asafnte Dup
+D m ouruared tharnd he bere s ,
+
+He t meEPacAS wKlapiwisers wI s, oreanot Apelu.
+Gtcoiy inde e yRd tlat",depth,2
+64,4,4,128,150,16,207681,2.700240445137024,14.883309914168171,3.61,85067.4,407.07,"ROMEO:
+
+3u aeafnte thit te othuared tharnd he berecs tuuse thimEPanASAxelapfwisers we haroreanotsAEN:u.
+GI ouy inde e y d that",depth,4
+64,4,6,128,150,16,307265,2.637360167503357,13.976259881546504,5.98,51350.4,432.98,"ROMEO:
+
+O: asafnt atid, te oud ared Xthand he berecon,
+OLe the go- wis thapiwist cale st orean,
+TAUCTu.
+GI o y inde e y d tlat",depth,6
+64,2,4,128,150,16,207681,2.6958303213119508,14.8178171961661,2.39,128599.7,398.45,"ROMEO:
+
+3u aeafnte thit te othuared tharnd he berecs tuusenthimEPand be lapfwisers we haroreanl
+TAnelu.
+GI ouy inde e y d tlat",heads,2
+64,4,4,128,150,16,207681,2.700240445137024,14.883309914168171,3.61,85067.4,407.07,"ROMEO:
+
+3u aeafnte thit te othuared tharnd he berecs tuuse thimEPanASAxelapfwisers we haroreanotsAEN:u.
+GI ouy inde e y d that",heads,4
+64,8,4,128,150,16,207681,2.688494610786438,14.709515698478752,6.96,44141.2,424.32,"ROMEO:
+
+3u asafnte thit te otheared tharnd he berecs turountheXgo- wishelapfwisers we haroreanl
+TAnelu.
+GI o y inde e y d tlat",heads,8
+64,4,4,64,150,16,207681,2.710953617095947,15.04361452482196,4.22,36384.5,376.43,"ROMEO:
+
+3u aeafnte thit te otheared thare olleepre sn,
+
+He the go- wise lapfwisers we baroreanl
+TAnelus thcouaninde e y d tlat",context_length,64
+64,4,4,128,150,16,207681,2.700240445137024,14.883309914168171,3.61,85067.4,407.07,"ROMEO:
+
+3u aeafnte thit te othuared tharnd he berecs tuuse thimEPanASAxelapfwisers we haroreanotsAEN:u.
+GI ouy inde e y d that",context_length,128
+64,4,4,256,150,16,207681,2.7108474254608153,15.04201710361516,4.26,144167.5,495.31,"ROMEO:
+
+3u aeafnte thit te otheared tharnd he berecs turounthe go- wishelapfwisers we haroreanotsAUCPu.
+GI o y inde e y d tle ",context_length,256

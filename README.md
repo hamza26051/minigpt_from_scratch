@@ -2,7 +2,7 @@
 
 ## Report
 
-[View Project Report](https://github.com/hamza26051/minigpt_from_scratch)
+[View Project Report]( https://medium.com/@emaan4264/building-minigpt-from-scratch-a-small-causal-transformer-in-pytorch-68cd1f75223f?sharedUserId=emaan4264)
 
 ## Demo
 

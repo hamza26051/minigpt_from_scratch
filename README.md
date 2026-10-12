@@ -6,6 +6,7 @@
 
 ## Demo
 
+[View Demo]( https://drive.google.com/file/d/1Ic6bdkIUfyip4Hukrp7fd7-EoiLfzxoK/view?usp=sharing)
 
 
 A small GPT-style causal language model built from first principles in PyTorch for the AI Engineering Transformer assignment.

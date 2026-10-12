@@ -1,5 +1,13 @@
 # MiniGPT From Scratch
 
+## Report
+
+[View Project Report](https://github.com/hamza26051/minigpt_from_scratch)
+
+## Demo
+
+
+
 A small GPT-style causal language model built from first principles in PyTorch for the AI Engineering Transformer assignment.
 
 The core Transformer architecture is implemented directly rather than loaded from a pretrained language-model checkpoint. The project uses character-level tokenization and Tiny Shakespeare to demonstrate causal self-attention, multi-head attention, sinusoidal positional encoding, residual Transformer blocks, next-token training, text generation, checkpointing, unit tests, and controlled ablations.
